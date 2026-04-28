@@ -1,2 +1,3 @@
-# itmo-differential-equations-course
-Differential Equations course
+# Differential Equations Course
+
+### Работа по курсу ИТМО "Дифференциальные уравнения"
