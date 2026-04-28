@@ -1,0 +1,7 @@
+[project]
+name = "itmo-differential-equations-course"
+version = "1.0.0"
+description = "Differential Equations course"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
