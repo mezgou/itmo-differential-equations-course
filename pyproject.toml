@@ -4,4 +4,8 @@ version = "1.0.0"
 description = "Differential Equations course"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "matplotlib>=3.10.9",
+    "numpy>=2.4.4",
+    "pandas>=3.0.2",
+]
