@@ -2,4 +2,6 @@
 .venv/
 .vscode/
 .agents/
+.claude/
+.codex/
 .idea/
