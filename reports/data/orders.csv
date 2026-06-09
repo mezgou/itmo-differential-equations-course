@@ -1,0 +1,4 @@
+method,p_theoretical,p_observed
+Euler,1,1.0455998634114576
+Heun,2,2.033556146146266
+RK4,4,3.889878949957742
