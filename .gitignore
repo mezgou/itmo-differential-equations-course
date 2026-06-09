@@ -1,2 +1,5 @@
 # Directories
 .venv/
+.vscode/
+.agents/
+.idea/
